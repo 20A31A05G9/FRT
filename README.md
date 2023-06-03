@@ -9,9 +9,9 @@
 
 
 ## **`TEAM MEMBER DETAILS`** 
-**TEAM MEMBER NAME** - [`Shaik Muzzammil Mohiddin Jeelani`]
+**TEAM MEMBER NAME** - [`GADDE SRINIVAS`]
 
-**TEAM MEMBER GITHUB ACCOUNT** - [`GITHUB URL`](https://GITHUB.COM/20a31a05i8/)
+**TEAM MEMBER GITHUB ACCOUNT** - [`GITHUB URL`](https://GITHUB.COM/20a31a05g9/)
 
 
 ## **`Azure technologies`** used For this Project
@@ -19,8 +19,8 @@
 2. Health bot
 </br>
 
-**Project Link** - [`URL`](https://thankful-water-02651ed10.3.azurestaticapps.net/) </br>
-**Project Demo Video Link** - [`youtube Link`](https://youtu.be/1YoyTWue0nQ)
+**Project Link** - [`URL`](https://wonderful-grass-0eea45710.3.azurestaticapps.net/) </br>
+**Project Demo Video Link** - [`youtube Link`]()
 
 </br></br>
 
